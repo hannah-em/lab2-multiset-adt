@@ -12,7 +12,7 @@ The goals of this activity are to:
 - give you a first experience of coding in a collaborative environment
 - experiment with how to most effectively divide up coding tasks
 
-# The Task
+# The Task!
 
 Now that we are familiar with the process of branching and making pull requests from the
 previous activity, we will apply these new skills to a coding task.
